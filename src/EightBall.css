@@ -1,0 +1,22 @@
+.ball {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: 400px;
+  height: 400px;
+  border-radius: 200px;
+}
+
+.black {
+  background-color: black;
+}
+.green {
+  background-color: green;
+}
+.goldenrod {
+  background-color: goldenrod;
+}
+.red {
+  background-color: red;
+}
